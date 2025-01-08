@@ -8,6 +8,9 @@ void findMaxMin(int arr[], int size, int *max, int *min) {
         return;
     }
 
+
+
+
     // Initialize max and min to the first element of the array
     *max = arr[0];
     *min = arr[0];
