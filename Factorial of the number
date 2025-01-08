@@ -20,6 +20,22 @@ int main() {
     } else {
         fact = factorial(num);
         printf("Factorial of %d is %llu\n", num, fact);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 
     return 0;
